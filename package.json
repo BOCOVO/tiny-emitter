@@ -1,11 +1,14 @@
 {
   "name": "tiny-emitter",
   "version": "0.0.0",
-  "description": "",
+  "description": "A small library to dispatch and listen event in all you app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "event",
+    "emitter"
+  ],
   "author": "Bocovo Juste",
   "license": "ISC",
   "dependencies": {},
